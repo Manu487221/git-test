@@ -1,3 +1,3 @@
-provider "awsc" {
+provider "aws" {
   
 }
